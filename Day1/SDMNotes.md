@@ -25,6 +25,10 @@
     SET EMAIL-->$ git config --global user.email "jaitembhare@gmail.com"
 -for view --git config --global --edit
 -i2
-# FOR SAVING CHANGES.
+-FOR SAVING CHANGES.
 -git add SDMNotes.md
 -git commit -m "SDMNotes.md is modified"
+-git log(To exit press 'wq')
+-git checkout 'Copy id'
+-git checkout master
+
