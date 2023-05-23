@@ -12,17 +12,19 @@
 -i1
 # Push
 # Pull
-### GIT repo init
+### GIT Commands.
 - git init
 - git status
 - for ecisting code [Shift+!] Enter
--git add . 
--git commit -m "First commit for project by Jai Tembhare"
+-git add . (.--> for all files)(goes to stage area)
+-git commit -m "First commit for project by Jai Tembhare"(goes to local repo)
 -   Jai@Jai MINGW64 ~
-    $ git config --global user.name "Jai Tembhare"
+    SET USERNAME-->$ git config --global user.name "Jai Tembhare"
 
     Jai@Jai MINGW64 ~
-    $ git config --global user.email "jaitembhare@gmail.com"
--
-
-
+    SET EMAIL-->$ git config --global user.email "jaitembhare@gmail.com"
+-for view --git config --global --edit
+-i2
+# FOR SAVING CHANGES.
+-git add SDMNotes.md
+-git commit -m "SDMNotes.md is modified"
