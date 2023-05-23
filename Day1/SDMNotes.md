@@ -16,4 +16,13 @@
 - git init
 - git status
 - for ecisting code [Shift+!] Enter
--git add .git
+-git add . 
+-git commit -m "First commit for project by Jai Tembhare"
+-   Jai@Jai MINGW64 ~
+    $ git config --global user.name "Jai Tembhare"
+
+    Jai@Jai MINGW64 ~
+    $ git config --global user.email "jaitembhare@gmail.com"
+-
+
+
